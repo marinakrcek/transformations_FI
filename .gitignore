@@ -1,0 +1,14 @@
+.idea/
+affine*/
+*.zip
+*.png
+*.pdf
+__pycache__/
+venv/
+*.cfg
+*.json
+*.out
+*.xlsx
+*.txt
+*.csv
+
